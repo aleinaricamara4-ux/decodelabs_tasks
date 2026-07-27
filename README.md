@@ -1,2 +1,3 @@
 # decodelabs_tasks
-Cybersecurity Tasks 1-4 for Decodelabs
+Cybersecurity
+Tasks 1-4 for Decodelabs
